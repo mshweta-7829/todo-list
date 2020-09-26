@@ -66,7 +66,7 @@ function TodoApp(props) {
             <Todo todo={getTopTodo()} />
           </section>
           <section>
-            <h3 className="mb-3">Add Nü</h3>
+            <h3 className="mb-3">Add New Todo</h3>
             <TodoForm handleSave={create} />
           </section>
         </div>
