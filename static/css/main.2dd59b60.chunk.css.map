@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css","App.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,SAAU,CACV,sBACF,CCJA,YACE,wBAA+B,CAC/B,UAAY,CACZ,4BACF","file":"main.2dd59b60.chunk.css","sourcesContent":["body {\n  margin: 0;\n  padding: 0;\n  font-family: sans-serif;\n}\n",".App header {\n  background-color: darkgoldenrod;\n  color: white;\n  box-shadow: 3px 3px 10px #333;\n}"]}
